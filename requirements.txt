@@ -1,0 +1,4 @@
+python-telegram-bot==20.7
+APScheduler==3.10.4
+pysqlite3==0.5.2
+python-dotenv==1.0.0
